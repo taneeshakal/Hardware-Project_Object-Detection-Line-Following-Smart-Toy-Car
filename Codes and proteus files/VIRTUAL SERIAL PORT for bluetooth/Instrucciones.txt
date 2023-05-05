@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+                
+
+    Copiar el vspdctl.dll a la carpeta de Virtual Serial Port Driver
+       que está en el disco local C
