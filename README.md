@@ -16,9 +16,9 @@ use as a remotely controlled car, by the mobile phone with the use of a Bluetoot
 
 ##Other Comments
 
-Programming language used - C
-IDE - Atmel studio
-Animation video - blender
-PCB design - kicad
-Simulation - proteus 
+Programming language used - C 
+ IDE - Atmel studio 
+ Animation video - blender
+ PCB design - kicad
+ Simulation - proteus 
 
